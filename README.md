@@ -1,7 +1,7 @@
 #Joy--ife group
 　Hello, we are Joy ^_^!
 ##Joy 学习小组
-Joy原意为“开心，快乐”。因为兴趣，因为缘分，我们四人能组成了一个新的团队。希望在接下来的一段时间里，我们开开心心地交流，努力与成长,沉浸在学习前端的快乐中不能自拔^_^。Let's get started!
+Joy原意为“开心，快乐”。因为兴趣，因为缘分，我们四人能组成了一个新的团队。希望在接下来的一段时间里，我们开开心心地交流，努力与成长,沉浸在学习前端的快乐中不能自拔。Let's get started!
 
 ##组员
 
@@ -9,7 +9,8 @@ Joy原意为“开心，快乐”。因为兴趣，因为缘分，我们四人�
 * [Wenger](https://github.com/ZevZhan)　重庆师范大学
 * [DiJun](https://github.com/satradj)　吉首大学
 * [Eve](https://github.com/Evehaha)     　中北大学　 <br/>
-　Robert和Eve均是留学生，Robert已经参加工作，精通angular.js,并且户有自己的技术博客。其他三人均是大学生，Wenger和Eve具备JS基础并且正在进阶，DiJun擅长后端，三人都希望通过在IFE的学习，对前端知识掌握更全面更透彻，更上一层楼！
+* [Howie](https://github.com/Howiezhang226)
+　Robert和Howiex现在在海外留学，Robert精通angular.js,并且户有自己的技术博客。其他三人是来自不同高校大学生，Wenger和Eve具备JS基础并且正在进阶，DiJun擅长后端，小组都希望通过在IFE的学习，认识更多前端爱好者，对前端知识掌握更全面更透彻，更上一层楼！
 
 ##口号
 好好学习，天天向上 ^_^！ 
